@@ -2,7 +2,7 @@
 
 ## Description
 
-test-project
+Start this test repo with npm start and then hit the URL http://localhost:3000. The logs then shows entering and exiting at the top level only and not for the service method.
 
 ## Installation
 
